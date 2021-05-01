@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BigShotDEV
+- 👀 I’m interested in FiveM and other lua projects, or projects for other games.
+- 🌱 I’m currently learning how to code cheats for FiveM
